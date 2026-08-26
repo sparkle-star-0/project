@@ -1,0 +1,31 @@
+﻿
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="/css/headerFooter.css">
+</head>
+<header>
+    @RenderSection(ViewBag.sectionName)
+</header>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+<footer>
+    <label class="license">پروانه بهره برداری از وزارت صمت : 123/10815</label>
+    <label class="license"> @ViewBag.license </label>
+    <label class="license">شماره پروانه بهداشتی ساخت :32/10408 </label>
+    <pre>تمامی حقوق این ویسایت محفوظ است!</pre>
+    <label class="AHS">
+        <a target="_blank" href="https://ponisha.ir/profile/amirh03in8431" class="link_AHS">Designed By A.H.S</a>
+    </label>
+
+</footer>
+</html>
+

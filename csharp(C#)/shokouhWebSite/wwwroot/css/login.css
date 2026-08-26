@@ -1,0 +1,149 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    direction: rtl;
+    min-height: 100vh;
+    padding: 30px;
+    background: linear-gradient(135deg, #414345, #232526);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Vazirmatn', Tahoma, sans-serif;
+}
+
+.informationPanel {
+    width: min(900px, 90vw);
+    min-height: 520px;
+    background: #f8fafc;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 28px;
+    box-shadow: 0 25px 60px rgba(0, 0, 0, 0.35);
+}
+
+#inputPanel,
+#imagePanel {
+    width: 50%;
+    min-height: 520px;
+}
+
+#inputPanel {
+    padding: 55px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+    #inputPanel h1 {
+        margin-bottom: 35px;
+        color: #232526;
+        font-size: 28px;
+        font-weight: 800;
+    }
+
+.field {
+    width: 100%;
+    max-width: 380px;
+    margin-bottom: 20px;
+    text-align: right;
+}
+
+    .field label {
+        display: block;
+        margin-bottom: 8px;
+        color: #34383b;
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+.Input {
+    width: 100%;
+    height: 52px;
+    padding: 0 18px;
+    border: 1px solid #d7dce0;
+    border-radius: 14px;
+    outline: none;
+    background: #fff;
+    color: #232526;
+    font-family: inherit;
+    font-size: 15px;
+    transition: .25s ease;
+}
+
+    .Input:focus {
+        /* border-color: #414345; */
+        box-shadow: 0 0 15px rgb(0, 0, 0);
+        scale: 1.05;
+    }
+
+#button {
+    width: 100%;
+    max-width: 380px;
+    height: 52px;
+    margin-top: 8px;
+    border: none;
+    border-radius: 14px;
+    background-image: linear-gradient(to right, #232526, #606060, #232526);
+    background-size: 200% auto;
+    color: white;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 700;
+    transition: .5s ease;
+}
+
+    #button:hover {
+        background-position: right center;
+        box-shadow: 0 0 25px rgb(0, 0, 0);
+        transform: translateY(-2px);
+    }
+
+#imagePanel {
+    position: relative;
+    overflow: hidden;
+}
+
+    #imagePanel img {
+        width: 100%;
+        height: 100%;
+        display: block;
+        /* object-fit: fill; */
+        /* object-position: center; */
+    }
+
+@media (max-width: 700px) {
+    .informationPanel {
+        width: 100%;
+        min-height: auto;
+        flex-direction: column;
+        border-radius: 22px;
+    }
+
+    #imagePanel {
+        order: -1;
+        width: 100%;
+        height: 250px;
+        min-height: 250px;
+    }
+
+    #inputPanel {
+        width: 100%;
+        min-height: auto;
+        padding: 35px 25px;
+    }
+
+        #inputPanel h1 {
+            font-size: 23px;
+        }
+}

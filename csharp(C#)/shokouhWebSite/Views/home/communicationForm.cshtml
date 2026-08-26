@@ -1,0 +1,46 @@
+﻿@{
+    Layout = "~/Views/shared/_LayoutMainIndex.cshtml";
+}
+<!DOCTYPE html>
+    <html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/communicationForm.css">
+    <title>communication</title>
+</head>
+    <body>
+    <main>
+        <form action="/sendMessage" method="post">
+            <div id="topicPanel" class="panel">
+                <label for="topictextBox" class="text_style , inputTextBox"> موضوع :</label>
+                <input type="text" class="inputTextBox" name="topic">
+            </div>
+            <div id="emailPanel" class="panel">
+                <label for="emailInput" class="text_style">ایمیل :</label>
+                <input type="email" name="email" class="inputTextBox">
+            </div>
+            <div id="receiverPanel" class="panel">
+                <label for="receiver" class="text_style">گیرنده را انتخاب کنید :</label>
+                <select name="receiver" id="comboBoxReceiver">
+                    <option value="">----انتخاب گیرنده درخواست----</option>
+                    <option value="0">واحد مالی</option>
+                    <option value="1">انتقادات و پیشنهادات</option>
+                    <option value="2">واحد بازرگانی</option>
+                </select>
+            </div>
+            <div id="massegePanel" class="panel">
+                <label for="messageInput" class="text_style">متن پیام : </label>
+                <textarea name="textMessage" id="messageTextBox" placeholder="متن خود را بنویسید "></textarea>
+                <br>
+                @* <input type="file" name="attachedFile" value="customerFile" class="text_style"> *@
+            </div>
+            <div id="buttonPanel">
+                <input type="submit" value="ثبت" id="button">
+            </div>
+        </form>
+    </main>
+    </body>
+    </html>
+
+

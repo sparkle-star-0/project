@@ -1,0 +1,42 @@
+﻿@font-face {
+    font-family: yekan;
+    src: url('/persian_font/yekan-font/yekan-regular.woff');
+    src: url('/persian_font/yekan-font/yekan-regular.ttf');
+}
+
+main {
+    text-align: center;
+    font-size: larger;
+/*    height: fit-content;*/
+}
+
+.text {
+    font-family: yekan;
+    display: inline-block;
+    margin: 3%;
+}
+
+#phone {
+    font-size: xx-large;
+    display: inline-block;
+    font-family: yekan;
+}
+
+.location {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px white;
+    border: 2px solid black;
+    transition: transform 0.5s;
+}
+
+    .location:hover {
+        transform: scale(1.4);
+    }
+
+.address {
+    height: auto;
+    margin: 0 auto;
+}

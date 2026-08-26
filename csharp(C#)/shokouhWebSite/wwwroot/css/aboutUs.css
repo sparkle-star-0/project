@@ -1,0 +1,13 @@
+﻿.image {
+    display: block;
+    margin-right: 35%;
+    border-radius: 5%;
+    box-shadow: 0 0 30px white;
+    border: 2px solid black;
+}
+
+
+
+.about {
+    text-align: center;
+}
