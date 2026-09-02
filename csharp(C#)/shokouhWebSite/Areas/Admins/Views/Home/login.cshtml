@@ -1,0 +1,40 @@
+﻿@model shokouhWebSite.Models.Admin
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ورود</title>
+    <link rel="stylesheet" href="/css/login.css">
+    @* <script src="/projects/on working/login/assets/JS/login.js"></script> *@
+</head>
+
+<body class="body">
+    <form class="informationPanel" action="admins/home/authentication" method="POST">
+
+        <div id="inputPanel">
+           
+            <h3>ورود به حساب کاربری</h3>
+
+            <div class="field">
+                <label for="userName">نام کاربری</label>
+                <input type="text" id="userName" name="userName" class="Input" required>
+            </div>
+
+            <div class="field">
+                <label for="password">رمز عبور</label>
+                <input type="password" id="password" name="pass" class="Input" required>
+            </div>
+
+            <input id="button" type="submit" value="ورود">
+        </div>
+
+        <div id="imagePanel">
+            <img src="/Images/loginimage.png" alt="صفحه ورود">
+        </div>
+
+    </form>
+</body>
+
+</html>

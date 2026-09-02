@@ -1,0 +1,524 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\areas\\admins\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:areas\\admins\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\models\\shokouhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:models\\shokouhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\areas\\admins\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:areas\\admins\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\areas\\admins\\views\\shared\\_layoutadminmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:areas\\admins\\views\\shared\\_layoutadminmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\views\\shared\\_layoutmainindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:views\\shared\\_layoutmainindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\areas\\admins\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:areas\\admins\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\models\\communicationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:models\\communicationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\models\\positiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:models\\positiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5EA1B-A73C-4C70-9115-F46785EEC410}|..\\dBLayer\\dBLayer.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\dblayer\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\views\\home\\communicationform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:views\\home\\communicationform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\wwwroot\\css\\communicationform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:wwwroot\\css\\communicationform.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\wwwroot\\css\\conectus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:wwwroot\\css\\conectus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\views\\home\\partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:views\\home\\partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\wwwroot\\css\\headerfooter.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:wwwroot\\css\\headerfooter.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\views\\home\\conectus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:views\\home\\conectus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\wwwroot\\css\\products.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:wwwroot\\css\\products.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|c:\\users\\admin\\desktop\\programming\\csharp(c#)\\shokouhwebsite\\wwwroot\\css\\aboutus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA361B23-523E-4CEC-B9C5-8F226CEE05F7}|shokouhWebSite.csproj|solutionrelative:wwwroot\\css\\aboutus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 221,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Areas\\Admins\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admins\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Areas\\Admins\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admins\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T08:35:53.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShokouhContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\ShokouhContext.cs",
+              "RelativeDocumentMoniker": "Models\\ShokouhContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\ShokouhContext.cs",
+              "RelativeToolTip": "Models\\ShokouhContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAzwDcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T08:32:23.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutMainIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\shared\\_LayoutMainIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\shared\\_LayoutMainIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\shared\\_LayoutMainIndex.cshtml",
+              "RelativeToolTip": "Views\\shared\\_LayoutMainIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-10T07:37:14.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\Index.cshtml",
+              "RelativeToolTip": "Views\\home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T08:47:05.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "aboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\aboutUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\home\\aboutUs.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\aboutUs.cshtml",
+              "RelativeToolTip": "Views\\home\\aboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T10:47:22.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "homeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Controllers\\homeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\homeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Controllers\\homeController.cs",
+              "RelativeToolTip": "Controllers\\homeController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T08:46:47.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Areas\\Admins\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admins\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Areas\\Admins\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admins\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T06:52:23.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Areas\\Admins\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admins\\Views\\Home\\login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Areas\\Admins\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "Areas\\Admins\\Views\\Home\\login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-08T08:25:10.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutAdminMain.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Areas\\Admins\\Views\\shared\\_LayoutAdminMain.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admins\\Views\\shared\\_LayoutAdminMain.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Areas\\Admins\\Views\\shared\\_LayoutAdminMain.cshtml",
+              "RelativeToolTip": "Areas\\Admins\\Views\\shared\\_LayoutAdminMain.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T12:21:07.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommunicationTable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\CommunicationTable.cs",
+              "RelativeDocumentMoniker": "Models\\CommunicationTable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\CommunicationTable.cs",
+              "RelativeToolTip": "Models\\CommunicationTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T08:33:22.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T10:17:02.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PositionTable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\PositionTable.cs",
+              "RelativeDocumentMoniker": "Models\\PositionTable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\PositionTable.cs",
+              "RelativeToolTip": "Models\\PositionTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T10:45:14.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T08:33:28.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dataBaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\dBLayer\\dataBaseHelper.cs",
+              "RelativeDocumentMoniker": "..\\dBLayer\\dataBaseHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\dBLayer\\dataBaseHelper.cs",
+              "RelativeToolTip": "..\\dBLayer\\dataBaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T09:33:35.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T06:33:15.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "communicationForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\communicationForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\home\\communicationForm.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\communicationForm.cshtml",
+              "RelativeToolTip": "Views\\home\\communicationForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T12:17:47.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "communicationForm.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\communicationForm.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\communicationForm.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\communicationForm.css",
+              "RelativeToolTip": "wwwroot\\css\\communicationForm.css",
+              "ViewState": "AgIAADwAAAAAAAAAAIBJwEsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-11T12:19:58.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "Models\\Image.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Models\\Image.cs",
+              "RelativeToolTip": "Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T08:33:27.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-08-11T06:48:11.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "conectUs.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\conectUs.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\conectUs.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\conectUs.css",
+              "RelativeToolTip": "wwwroot\\css\\conectUs.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-05T11:07:06.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "partial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\partial.cshtml",
+              "RelativeDocumentMoniker": "Views\\home\\partial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\partial.cshtml",
+              "RelativeToolTip": "Views\\home\\partial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-09T07:19:35.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "headerFooter.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\headerFooter.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\headerFooter.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\headerFooter.css",
+              "RelativeToolTip": "wwwroot\\css\\headerFooter.css",
+              "ViewState": "AgIAADkAAAAAAAAAAOBvwF0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-05T08:50:55.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\shared\\error.cshtml",
+              "RelativeDocumentMoniker": "Views\\shared\\error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\shared\\error.cshtml",
+              "RelativeToolTip": "Views\\shared\\error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-08T12:27:14.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "products.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\products.cshtml",
+              "RelativeDocumentMoniker": "Views\\home\\products.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\products.cshtml",
+              "RelativeToolTip": "Views\\home\\products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T11:08:30.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "conectUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\conectUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\home\\conectUs.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Views\\home\\conectUs.cshtml",
+              "RelativeToolTip": "Views\\home\\conectUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T11:06:15.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-05T12:05:28.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-05T12:05:42.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-08T08:25:31.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "products.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\products.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\products.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\products.css",
+              "RelativeToolTip": "wwwroot\\css\\products.css",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-05T11:09:55.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "aboutUs.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\aboutUs.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\aboutUs.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\aboutUs.css",
+              "RelativeToolTip": "wwwroot\\css\\aboutUs.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-05T10:59:09.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\index.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programming\\csharp(C#)\\shokouhWebSite\\wwwroot\\css\\index.css",
+              "RelativeToolTip": "wwwroot\\css\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-05T08:49:33.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
